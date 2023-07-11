@@ -1,7 +1,5 @@
 <h1>Hello, world!</h1>
 
-<hr>
-
 <p>I'm Thiago Mares, a continuous and passionate learner, and </p>
  
 
