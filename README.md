@@ -1,6 +1,9 @@
-<h1>Olá, mundo!
+<h1>Hello, world!</h1>
 
-I'm Thiago Mares, a continuous 
+<hr>
+
+<p>I'm Thiago Mares, a continuous and passionate learner, and </p>
+ 
 
 <!---
 thiagomares/thiagomares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
