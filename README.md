@@ -2,7 +2,7 @@
 
 <p>
  I'm Thiago Mares, a continuous and passionate learner, and love for every type of technology. Black sheep from a family full of physicians.
- Currently I'm working at @goenumerate/@themethodicalgroup as data analyst and I have my own projects
+ Currently I'm working at @Leverprobr as SQL Developer and I have my own projects
 </p>
 
 <h1>Expertise</h1>
