@@ -9,7 +9,7 @@
 <p>I always was envolved on something connected to programming, and today I'm focused on database and machine learning development for Corporate Analytics, with Power BI, M Language, SQL and Python, but I have knowledge in Ruby, Rails, C# and in Javascript (this is a little, but keep working)</p>
 
 <h1>Stacks</h1>
-<p>HTML, CSS, Javascript, Ruby on Rails, Python, Trello, Azure DevOps, Power BI, Pandas</p> 
+<p>Javascript, Python, Airflow, Spark, Azure DevOps, Power BI, Pandas, Numpy, Kafka, SQL</p> 
 <!---
 thiagomares/thiagomares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
